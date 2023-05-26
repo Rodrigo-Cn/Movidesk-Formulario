@@ -1,0 +1,227 @@
+.modelo1
+{
+    position: absolute;
+    background-color: white;
+    left: 200px;
+    height: 600px;
+    width: 400px;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+.modelo2
+{
+    position: absolute;
+    left: 700px;
+    background-color: white;
+    height: 600px;
+    width: 400px;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+#headerr
+{
+    position: absolute;
+    background-color: rgb(214, 74, 74);
+    height: 70px;
+    width: 400px;
+}
+#topo1
+{
+    position: absolute;
+    top: 5px;
+    right: 110px;
+    color: white;
+
+}
+#topo2
+{
+    position: absolute;
+    top: 6px;
+    right: 250px;
+    font-size: 17px;
+    color: white;
+}
+.logo
+{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    top: 4px;
+    left: 5px;
+}
+.voltar1
+{
+    position: absolute;
+    top: 13px;
+    height: 40px;
+    width: 40px;
+    left: 340px;
+}
+.msg1
+{
+    position: absolute;
+    top: 72px;
+    left: 30px;
+    background-color: rgb(228, 223, 223);
+    height: 150px;
+    width: 340px;
+}
+.texto1
+{
+    position: absolute;
+    right: 15px;
+    color: rgb(44, 44, 44);
+}
+#hora1
+{
+    position: absolute;
+    color: rgb(117, 114, 114);
+    font-size: 11px;
+    top: 150px;
+    left: 317px;
+}
+.corpo1
+{
+    position: absolute;
+    top: 265px;
+    left: 98px;
+    background-color: white;
+    width: 270px;
+    height: 290px;
+    border: 1px  rgb(117, 114, 114) solid;
+    border-radius: 9px;
+}
+#resposta1
+{
+    font-size: 13px;
+    position: absolute;
+    left: 27px;
+    top: 30px;
+    color:rgb(117, 114, 114);
+}
+#botao1
+{
+    position: absolute;
+    bottom: -16px;
+    left: 164px;
+    background-color:rgb(214, 74, 74);
+    color: white;
+    width: 60px;
+    height: 30px;
+}
+#download1
+{
+    position: absolute;
+    top: 246px;
+    left: 156px;
+    width: 20px;
+    height: 20px;
+}
+#texto2
+{
+    position: absolute;
+    color: rgb(204, 194, 194);
+    top: 68px;
+    left: 12px;
+    z-index: 1;
+}
+#resposta2
+{
+    position: absolute;
+    background-color: rgb(228, 223, 223);
+    height: 50px;
+    width: 280px;
+    top: 113px;
+    left: 10px;
+    border: 1px rgb(228, 223, 223) solid;
+    border-radius: 15px;
+}
+#texto3
+{
+    position: absolute;
+    top: 7px;
+    right: 40px;
+    color: rgb(44, 44, 44);
+    font-size: 11px;
+}
+#corpo2
+{
+    position: absolute;
+    top: 210px;
+    left: 98px;
+    background-color: white;
+    width: 270px;
+    height: 320px;
+    border: 1px  rgb(117, 114, 114) solid;
+    border-radius: 9px;
+}
+#hora2
+{
+    position: absolute;
+    color: rgb(117, 114, 114);
+    font-size: 11px;
+    top: 52px;
+    left: 254px;
+    z-index: 2;
+}
+#entrada1
+{
+    position: absolute;
+    color: rgb(117, 114, 114);
+    top: 36px;
+    left: 35px;
+}
+.tamanhoa
+{
+    height: 25px;
+    width: 190px;
+}
+#botao2
+{
+    position: absolute;
+    top: 200px;
+    right: 1px;
+    color: white;
+    background-color: rgb(214, 74, 74);
+    width: 80px;
+    height: 30px;
+    font-size: 15px;
+}
+.imagemfooter
+{
+    position: absolute;
+    top: 572px;
+    right: 129px;
+    height: 20px;
+    width: 60px;
+
+}
+.textofooter
+{
+    color: rgb(117, 114, 114);
+    position: absolute;
+    top: 575px;
+    right: 195px;
+
+    font-size: 10px;
+}
+#linha1
+{
+    position: absolute;
+    top: 558px;
+    background-color:rgb(231, 219, 219);
+    height: 2px;
+    width: 400px;
+    z-index: 2;
+}
+#linha2
+{
+    position: absolute;
+    top: 562px;
+    background-color:rgb(231, 219, 219);
+    height: 2px;
+    width: 400px;
+    z-index: 2;
+}
